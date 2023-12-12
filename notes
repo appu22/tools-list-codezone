@@ -1,0 +1,3 @@
+mutable and immutable
+mutable Example : StringBuffer,Java.util. Date,StringBuilder etc.
+immutable : objects are legacy classes, wrapper classes,String classes etc..
