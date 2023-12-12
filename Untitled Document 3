@@ -1,0 +1,10 @@
+text == text/plain
+pdf === application/pdf
+csv === text/csv
+xsl === application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+ods === application/vnd.oasis.opendocument.spreadsheet
+odt === application/vnd.oasis.opendocument.text
+pptx === application/vnd.openxmlformats-officedocument.presentationml.presentation
+ppt === application/vnd.ms-powerpoint
+image == image/png
+
